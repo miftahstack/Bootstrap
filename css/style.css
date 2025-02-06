@@ -1,0 +1,30 @@
+/* All common css start  */
+*{
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+    box-sizing: border-box;
+
+}
+a,a:hover{
+    text-decoration: none;
+    display: inline-block;
+}
+ul,ol{
+    list-style: none;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0px;
+    padding: 0px;
+    line-height: 0.8;
+}
+/* All common css End  */
+
+/* Header part start   */
+.Button{
+    padding: 20px 30px;
+    border-radius: 18px;
+    background: #8454F5;
+    color: white;
+}
+/* Header part end  */
